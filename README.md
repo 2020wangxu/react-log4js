@@ -1,4 +1,3 @@
 # react-log4js
 
-
-sddfgdsafgsadfg
+1.npm install log4js
